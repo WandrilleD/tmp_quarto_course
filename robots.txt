@@ -1,0 +1,1 @@
+Sitemap: https://WandrilleD.github.io/tmp_quarto_course/sitemap.xml
