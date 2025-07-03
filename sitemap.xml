@@ -2,14 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://WandrilleD.github.io/tmp_quarto_course/about.html</loc>
-    <lastmod>2025-07-03T12:20:38.267Z</lastmod>
+    <lastmod>2025-07-03T14:04:28.787Z</lastmod>
+  </url>
+  <url>
+    <loc>https://WandrilleD.github.io/tmp_quarto_course/interactive_plot.html</loc>
+    <lastmod>2025-07-03T14:04:28.788Z</lastmod>
   </url>
   <url>
     <loc>https://WandrilleD.github.io/tmp_quarto_course/analysis.html</loc>
-    <lastmod>2025-07-03T12:20:38.267Z</lastmod>
+    <lastmod>2025-07-03T14:04:28.788Z</lastmod>
   </url>
   <url>
     <loc>https://WandrilleD.github.io/tmp_quarto_course/index.html</loc>
-    <lastmod>2025-07-03T12:20:38.267Z</lastmod>
+    <lastmod>2025-07-03T14:04:28.788Z</lastmod>
   </url>
 </urlset>
