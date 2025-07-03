@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://WandrilleD.github.io/tmp_quarto_course/index.html</loc>
-    <lastmod>2025-07-03T10:18:17.788Z</lastmod>
-  </url>
-  <url>
     <loc>https://WandrilleD.github.io/tmp_quarto_course/about.html</loc>
-    <lastmod>2025-07-03T10:18:18.820Z</lastmod>
+    <lastmod>2025-07-03T12:20:38.267Z</lastmod>
   </url>
   <url>
     <loc>https://WandrilleD.github.io/tmp_quarto_course/analysis.html</loc>
-    <lastmod>2025-07-03T10:18:25.212Z</lastmod>
+    <lastmod>2025-07-03T12:20:38.267Z</lastmod>
+  </url>
+  <url>
+    <loc>https://WandrilleD.github.io/tmp_quarto_course/index.html</loc>
+    <lastmod>2025-07-03T12:20:38.267Z</lastmod>
   </url>
 </urlset>
