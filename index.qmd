@@ -2,7 +2,7 @@
 title: "quarto-tutorial"
 ---
 
-In this project we aim to visualize the trends of the most frequently used babynames from 1880 to 2017 in the United States. We do this by:
+In this project we aim to visualize the trends of the most frequently used `babynames` from 1880 to 2017 in the United States. We do this by:
 
 - Understanding the different columns of the data set
 - Find the top 10 most frequently used baby names in the data for:
@@ -16,8 +16,10 @@ In this project we aim to visualize the trends of the most frequently used babyn
 <p class="attribution">"<a rel="noopener noreferrer" href="https://www.flickr.com/photos/99181158@N00/43129993">Baby Squirrel</a>" by <a rel="noopener noreferrer" href="https://www.flickr.com/photos/99181158@N00">Twix</a> is licensed under <a rel="noopener noreferrer" href="https://creativecommons.org/licenses/by-sa/2.0/?ref=openverse">CC BY-SA 2.0 <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /></a>.</p>
 
 
-```{r, echo=FALSE}
+```{r, echo=TRUE}
 1 + 1
 ```
+
+[this is something](analysis.qmd#fig-male)
 
 
